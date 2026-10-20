@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RescueMesh</string>
+    <style name="Theme.RescueMesh" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
